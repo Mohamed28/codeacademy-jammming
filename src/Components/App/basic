@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pt-br">
+  <head>
+    <title>Flow</title>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no" />
+    <link type="image/x-icon" rel="icon" href="/rocket.ico" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" />
+    <script src="//code.jivosite.com/widget/I0NsJC1jXh" async></script>
+  </head>
+  <body>
+    <div id="AppContainer"></div>
+    <script id="version" src="/v3.8.110-master.681706d.js"></script>
+  </body>
+</html>
